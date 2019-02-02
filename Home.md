@@ -291,7 +291,7 @@ bashmark是一个bash的目录书签插件:https://github.com/huyng/bashmarks
 {
 mkdir -p ~/.termux
 pkg in git curl
-curl -O https://raw.githubusercontet.com/4679/oh-my-termux/master/.termux/font.ttf&&cp font.ttf ~/.termux/font.ttf
+curl -O https://raw.githubusercontent.com/4679/oh-my-termux/master/.termux/font.ttf&&cp font.ttf ~/.termux/font.ttf
 mkdir -p ~/.bash/themes/agnoster-bash
 git clone https://github.com/speedenator/agnoster-bash.git ~/.bash/themes/agnoster-bash
 
